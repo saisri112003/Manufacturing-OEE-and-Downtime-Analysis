@@ -1,4 +1,4 @@
-# Manufacturing OEE & Downtime Analysis | Power BI
+# Manufacturing Operational Efficiency & Downtime Analysis | Power BI
 
 ## Project Overview
 An interactive Power BI dashboard designed to analyze manufacturing performance, production efficiency, and operational downtime.
